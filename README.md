@@ -1,3 +1,44 @@
+<<<<<<< HEAD
+# MHRS-APP
+🩺 Medical Health Record System — A React Native (Expo) app to securely store, view, and manage patient medical records. Features include doctor access, report uploads, and medicine tracking. Ensures data privacy with encrypted storage and smooth mobile experience for patients and healthcare providers.
+
+# 🩺 Medical Health Record System
+
+A cross-platform mobile application built with **React Native (Expo)** that allows patients and healthcare providers to manage, view, and share **medical health records** securely and efficiently.
+
+---
+
+## 📱 Features
+
+- 🧾 **Digital Health Records** — Store and view medical reports, prescriptions, and test results.  
+- 👨‍⚕️ **Doctor Access** — Authorized doctors can view and update patient data securely.  
+- 💊 **Medication Tracking** — Keep track of prescribed medicines and dosage reminders.  
+- 🔒 **Data Security** — All records are encrypted and stored securely.  
+- 📤 **Cloud Sync** — Access your data from multiple devices.  
+- 🌐 **WebView Integration** — Load secure web-based modules directly inside the app.  
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|-------------|----------|
+| **React Native (Expo)** | Cross-platform mobile app framework |
+| **Expo WebView** | To display web-based content securely |
+| **React Navigation** | Screen navigation |
+| **AsyncStorage / SecureStore** | Local data storage |
+| **Axios / Fetch API** | Data communication with backend |
+| **Node.js + Express (optional)** | Backend service (for health record API) |
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/medical-health-record-system.git
+   cd medical-health-record-system
+=======
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +89,4 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+>>>>>>> 11613de (Initial commit)
